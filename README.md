@@ -4,11 +4,7 @@ Análise e Desenvolvimento de Sistemas do Instituto Federal de Roraima para o ap
 estrutura de dados, tendo como único foco o estudo do tipo "arvore binária". Pedimos aos novos alunos apara atualizarem
 esse codigo continuamente, deixando o mais documentado possível (no scorpo do codigo) para uma melhor compreenção.
 
-# Adriel Gomes Costa
-# Ângela Caroline
-# Bruno Reis
-# Éricka Patrícia
-# Elton Santiago
+Acadêmicos: Adriel Gomes Costa, Ângela Caroline, Bruno Reis, Éricka Patrícia e Elton Santiago
 
-Instituto Federal de Roraima - TADS - Turma 2017.1 - Módulo 3
-Disciplina Estrutura de Dados - Prof. Renner
+*Instituto Federal de Roraima - TADS - Turma 2017.1 - Módulo 3
+*Disciplina Estrutura de Dados - Prof. Renner
